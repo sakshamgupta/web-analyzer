@@ -2,10 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97a6c793-cca1-4ddc-b079-afa59d83dc0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Global.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/analyzer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/analyzer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/application.log" afterPath="$PROJECT_DIR$/logs/application.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-web-analyzer-build-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/web-analyzer-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/web-analyzer-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/web-analyzer/web-analyzer$sources_javadoc_2.11/1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/web-analyzer/web-analyzer$sources_javadoc_2.11/1.0-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/web-analyzer/web-analyzer_2.11/1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/web-analyzer/web-analyzer_2.11/1.0-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/web-analyzer-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/web-analyzer-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/web-analyzer/web-analyzer$sources_javadoc_2.11/1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/web-analyzer/web-analyzer$sources_javadoc_2.11/1.0-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/web-analyzer/web-analyzer_2.11/1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/web-analyzer/web-analyzer_2.11/1.0-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/root.iml" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer$sources_javadoc_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/web-analyzer-web-analyzer_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web-analyzer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,6 +72,7 @@
     <ignored path="$PROJECT_DIR$/target/web/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/target/universal/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +113,7 @@
       <file leaf-file-name="WebAnalyzer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/WebAnalyzer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38879457">
+            <state vertical-scroll-proportion="0.7346939">
               <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -77,7 +135,7 @@
       <file leaf-file-name="WebAnalyzerService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/services/WebAnalyzerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.6363636">
+            <state vertical-scroll-proportion="0.0">
               <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -89,7 +147,7 @@
       <file leaf-file-name="index.scala.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/index.scala.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
               <folding />
             </state>
@@ -99,7 +157,7 @@
       <file leaf-file-name="analyzer.scala.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/analyzer.scala.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.5416667">
+            <state vertical-scroll-proportion="0.0">
               <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
@@ -144,7 +202,7 @@
       <file leaf-file-name="main.scala.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/main.scala.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -237,8 +295,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -372,6 +428,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -558,7 +616,7 @@
     </list>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1453407424978" />
+    <option name="lastUpdateTimestamp" value="1453494905966" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -613,17 +671,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3987034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3987034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -633,12 +690,13 @@
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -675,6 +733,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.5.4-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/WebAnalyzerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/index.scala.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/analyzer.scala.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Global.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.4.6-sources.jar!/play/GlobalSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/analyzer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.scala.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/analyzer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/WebAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.4.6-sources.jar!/play/libs/Json.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -687,11 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#152#153#0" expanded="false" />
-            <element signature="e#203#204#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,7 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,7 +923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="421" column="0" selection-start-line="421" selection-start-column="0" selection-end-line="421" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,11 +958,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#152#153#0" expanded="false" />
-            <element signature="e#203#204#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -899,7 +1037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -907,7 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="421" column="0" selection-start-line="421" selection-start-column="0" selection-end-line="421" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,10 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
-          <folding>
-            <element signature="e#1835#1836#0" expanded="false" />
-            <element signature="e#1880#1881#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -937,10 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-          <folding>
-            <element signature="e#704#705#0" expanded="false" />
-            <element signature="e#756#757#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -955,7 +1083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="421" column="0" selection-start-line="421" selection-start-column="0" selection-end-line="421" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +1090,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,11 +1097,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#152#153#0" expanded="false" />
-            <element signature="e#203#204#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1026,7 +1147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1048,7 +1168,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index.scala.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
@@ -1056,7 +1176,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/analyzer.scala.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.5416667">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
@@ -1093,7 +1213,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main.scala.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1112,7 +1232,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/services/WebAnalyzerService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6363636">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1122,7 +1242,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/WebAnalyzer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38879457">
+        <state vertical-scroll-proportion="0.7346939">
           <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />

@@ -7,7 +7,7 @@
 		revision="1.0-SNAPSHOT"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20160121121653"/>
+		date="20160122123458"/>
 	<dependencies>
 		<module organisation="com.typesafe.play" name="play-test_2.11">
 			<revision name="2.4.6" status="release" pubdate="20151213232239" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://playframework.com" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="76">
@@ -1202,11 +1202,11 @@
 					<artifact name="play_2.11" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="2627633" time="0" location="/Users/saksham/.ivy2/cache/com.typesafe.play/play_2.11/docs/play_2.11-2.4.6-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.4.6/play_2.11-2.4.6-javadoc.jar"/>
 					</artifact>
-					<artifact name="play_2.11" type="jar" ext="jar" status="no" details="" size="3797617" time="0" location="/Users/saksham/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.6.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.4.6/play_2.11-2.4.6.jar"/>
-					</artifact>
 					<artifact name="play_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="359773" time="0" location="/Users/saksham/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.4.6-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.4.6/play_2.11-2.4.6-sources.jar"/>
+					</artifact>
+					<artifact name="play_2.11" type="jar" ext="jar" status="no" details="" size="3797617" time="0" location="/Users/saksham/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.6.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/2.4.6/play_2.11-2.4.6.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -1795,11 +1795,11 @@
 					<artifact name="scala-stm_2.11" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="929219" time="0" location="/Users/saksham/.ivy2/cache/org.scala-stm/scala-stm_2.11/docs/scala-stm_2.11-0.7-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7-javadoc.jar"/>
 					</artifact>
-					<artifact name="scala-stm_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="116149" time="0" location="/Users/saksham/.ivy2/cache/org.scala-stm/scala-stm_2.11/srcs/scala-stm_2.11-0.7-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7-sources.jar"/>
-					</artifact>
 					<artifact name="scala-stm_2.11" type="jar" ext="jar" status="no" details="" size="630306" time="0" location="/Users/saksham/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7.jar"/>
+					</artifact>
+					<artifact name="scala-stm_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="116149" time="0" location="/Users/saksham/.ivy2/cache/org.scala-stm/scala-stm_2.11/srcs/scala-stm_2.11-0.7-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
