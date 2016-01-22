@@ -1,0 +1,24 @@
+@(error: String)(url: String)
+
+@main("Welcome to Web Analyzer") {
+
+    <div class="container">
+        <p>Welcome to the webpage analyzer tool. Simply provide us with the URL of the webpage that you want to analyze, and let us cook some awesomeness for you:</p>
+        <form role="form" action="@controllers.routes.WebAnalyzer.analyze()" method="post">
+            <div class="form-group">
+                <label for="url">URL:</label>
+                <input type="text" class="form-control" id="url" name="url" @if(error!=null){value="@url"}>
+            </div>
+            @if(error != null){
+                <div class="alert alert-danger" role="alert">
+                    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+                    <span class="sr-only">Error:</span>
+                    @error
+                </div>
+            }
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+
+}

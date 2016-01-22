@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/saksham/workspace/web-analyzer/conf/application.conf,/Users/saksham/workspace/web-analyzer/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/saksham/workspace/web-analyzer/conf/logback.xml,/Users/saksham/workspace/web-analyzer/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/saksham/workspace/web-analyzer/conf/routes,/Users/saksham/workspace/web-analyzer/target/scala-2.11/classes/routes)[0m

@@ -1,0 +1,42 @@
+@(instrumentedHtml: String)(json: com.fasterxml.jackson.databind.JsonNode)
+
+@main("Welcome to Web Analyzer") {
+
+
+<script>
+    var jsonParse = JSON.parse('@{Html(json.toString())}');
+</script>
+
+<script type="text/javascript" src='@routes.Assets.versioned("javascripts/analyzer.js")'></script>
+
+<div class="container" id="analyzer" ng-controller="analyzerAppCtrl" ng-app="analyzerApp">
+    <div class="row">
+        <div class="checkbox">
+            <label><input type="checkbox" ng-true-value="1" ng-false-value="0" ng-model="hoverToHighlight">Hover to highlight</label>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-6 content-container" style="width:500px;height:500px;overflow-x: scroll;overflow-y: scroll;">
+            <div>
+                <table class="table table-hover">
+                    <thead>
+                    <tr>
+                        <th>Tag Name</th>
+                        <th>Tag Count</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr ng-repeat="(tag,count) in tags.tagCount" ng-click="onClick(tag)" ng-mouseover="onHover(tag)">
+                        <td>{{tag}}</td>
+                        <td>{{count}}</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-xs-6 content-container" style="width:500px;height:500px;overflow-x: scroll;overflow-y: scroll;">
+            @Html(instrumentedHtml)
+        </div>
+    </div>
+</div>
+}

@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mPackaging /Users/saksham/workspace/web-analyzer/target/scala-2.11/web-analyzer_2.11-1.0-SNAPSHOT-web-assets.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets/analyzer.css[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/app/assets/stylesheets/analyzer.css[0m
+[0m[[0mdebug[0m] [0m	public/javascripts[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/public/javascripts[0m
+[0m[[0mdebug[0m] [0m	public/javascripts[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/app/assets/javascripts[0m
+[0m[[0mdebug[0m] [0m	public/images[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/public/images[0m
+[0m[[0mdebug[0m] [0m	public/javascripts/analyzer.js[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/app/assets/javascripts/analyzer.js[0m
+[0m[[0mdebug[0m] [0m	public/javascripts/hello.js[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/public/javascripts/hello.js[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets/main.css[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/public/stylesheets/main.css[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/public/stylesheets[0m
+[0m[[0mdebug[0m] [0m	public/images/favicon.png[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/public/images/favicon.png[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/app/assets/stylesheets[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

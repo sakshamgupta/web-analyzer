@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging /Users/saksham/workspace/web-analyzer/target/scala-2.11/web-analyzer_2.11-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Global.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/app/Global.java[0m
+[0m[[0mdebug[0m] [0m	controllers/Application.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/app/controllers/Application.java[0m
+[0m[[0mdebug[0m] [0m	controllers/WebAnalyzer.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/app/controllers/WebAnalyzer.java[0m
+[0m[[0mdebug[0m] [0m	services/WebAnalyzerService.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/app/services/WebAnalyzerService.java[0m
+[0m[[0mdebug[0m] [0m	logback.xml[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/conf/logback.xml[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/conf/routes[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/saksham/workspace/web-analyzer/conf/application.conf[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

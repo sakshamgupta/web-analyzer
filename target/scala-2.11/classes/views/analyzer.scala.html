@@ -1,0 +1,13 @@
+@(instrumentedHtml: String)(json: String)
+
+@main("Welcome to Web Analyzer") {
+
+<script>
+    var json = JSON.parse(@json);
+    console.log(json);
+</script>
+
+@Html(instrumentedHtml)
+
+
+}
